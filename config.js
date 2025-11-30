@@ -9,5 +9,5 @@ var config = {
        
     ],
     date:"2022-08-09T20:15:00",
-    names: ["☃︎【 Your Tanmay 】","‎ "]
+    names: ["☃︎【 Sajjad 】","‎ "]
 }
